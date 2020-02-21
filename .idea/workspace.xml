@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de032b0c-7467-45aa-ad4c-e0834f87ed05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSDYpa2od0Qe1VvsArByeajOXW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Automation_Java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HomeWork.YearsOfExperience">
+    <configuration name="HomeWork.Date" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TABLE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TABLE" />
+      <option name="MAIN_CLASS_NAME" value="TABLE.HomeWork" />
+      <option name="METHOD_NAME" value="Date" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork.FirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TABLE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TABLE" />
+      <option name="MAIN_CLASS_NAME" value="TABLE.HomeWork" />
+      <option name="METHOD_NAME" value="FirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork.Profession" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TABLE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TABLE" />
+      <option name="MAIN_CLASS_NAME" value="TABLE.HomeWork" />
+      <option name="METHOD_NAME" value="Profession" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork.SexButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TABLE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TABLE" />
+      <option name="MAIN_CLASS_NAME" value="TABLE.HomeWork" />
+      <option name="METHOD_NAME" value="SexButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork.YearsOfExperience" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TABLE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TABLE" />
+      <option name="MAIN_CLASS_NAME" value="TABLE.HomeWork" />
+      <option name="METHOD_NAME" value="YearsOfExperience" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HomeWork.YearsOfExperience" />
+        <item itemvalue="JUnit.HomeWork.Profession" />
+        <item itemvalue="JUnit.HomeWork.Date" />
+        <item itemvalue="JUnit.HomeWork.FirstName" />
+        <item itemvalue="JUnit.HomeWork.SexButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de032b0c-7467-45aa-ad4c-e0834f87ed05" name="Default Changelist" comment="" />
+      <created>1579134152942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579134152942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582228057299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1582228057299" />
+    <state x="507" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582077408284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582077408284" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1582231784034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582231784034" />
+    <state x="492" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579217057712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1579217057712" />
+    <state x="528" y="274" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579219250590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="274" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1579219250590" />
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom" timestamp="1582241245260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582241245260" />
+    <state width="1478" height="210" key="GridCell.Tab.0.center" timestamp="1582241245260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582241245260" />
+    <state width="1478" height="210" key="GridCell.Tab.0.left" timestamp="1582241245260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582241245260" />
+    <state width="1478" height="210" key="GridCell.Tab.0.right" timestamp="1582241245260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582241245260" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1581540119873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1581540119873" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1582243555625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582243555625" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582226199670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582226199670" />
+    <state x="462" y="17" width="611" height="789" key="find.popup" timestamp="1581539839230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="17" width="611" height="789" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581539839230" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaAutomation$facebooklogin.ic" NAME="facebooklogin Coverage Results" MODIFIED="1581542200468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>facebook.*</FILTER>
+    </SUITE>
+  </component>
+</project>
